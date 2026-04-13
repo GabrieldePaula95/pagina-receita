@@ -19,7 +19,7 @@ body{
 
 #page{
     box-sizing: border-box;
-    margin: 48PX auto;
+    margin: 48PX auto 28px;
     padding: 24px;
     background-color: #F0E8C2;
     width: 800px;
@@ -68,7 +68,13 @@ ul {
 }
 
 footer {
-    color: #F0E8C2;
+    color: #291B1A;
     text-align: center;
-    padding: 48px;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+    width: 16px;
+    height: 16px;
 }
